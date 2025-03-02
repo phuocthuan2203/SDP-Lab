@@ -1,5 +1,7 @@
 # Configuration Manager - Singleton Pattern Implementation
 
+## GitHub Repo: https://github.com/phuocthuan2203/SDP-Lab/tree/main/Lab1_Singleton
+
 ## Setup Configuration
 
 1. Navigate to the `src/config` directory
